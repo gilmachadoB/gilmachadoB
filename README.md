@@ -3,7 +3,7 @@ Olá! Eu sou a Gilderlane Machado 👋
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🧡 Estou me aprofundando em Front-end.
-- 📶 Buscando um oportunidade de trabalho.
+- 📶 Buscando uma oportunidade de trabalho.
 
  <div>
   <a href="https://github.com/gilmachadoB">
