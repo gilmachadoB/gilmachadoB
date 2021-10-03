@@ -3,6 +3,7 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🧡 Estou me aprofundando em Front-end.
+- Atualmente estudando C, confesso que tô amando 🤓
 - 😊 Quem ver pensa que tenho personalidade séria shushus
 
  <div>
