@@ -3,7 +3,7 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🧡 Estou me aprofundando em Front-end.
-- 📶 Buscando uma oportunidade de trabalho.
+- 😊 Quem ver pensa que tenho personalidade séria shushus
 
  <div>
   <a href="https://github.com/gilmachadoB">
