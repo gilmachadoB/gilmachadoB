@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gilderlane Machado 👋
+## Olá! Eu sou a Gil Machado 👋
 
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
