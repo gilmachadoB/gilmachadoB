@@ -2,7 +2,6 @@
 
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🧡 Estudando tecnologias Front-end.
 - 😊 Quem ver pensa que tenho personalidade séria shushus
 
  <div>
