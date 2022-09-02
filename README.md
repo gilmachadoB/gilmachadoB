@@ -15,7 +15,7 @@
 <img align="center" alt="Gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="border-radius: 15px;" align="right" alt="Gil-img" src="https://raw.githubusercontent.com/gilmachadoB/gilmachadoB/main/download20220201162331.png"  width="220">
+  <img style="border-radius:50px;" align="right" alt="Gil-img"  width="220"  height="150" src="https://raw.githubusercontent.com/gilmachadoB/gilmachadoB/main/download20220201162331.png" >
 </div>
      <br>                    
   <div>
@@ -25,7 +25,5 @@
    ![Snake animation](https://github.com/gilmachadoB/gilmachadoB/blob/output/github-contribution-grid-snake.svg)
  
   </div>
- 
-
  
 
