@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Gil Machado 👋
 
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🔭 Estou cursando 3° de Análise e Desenvolvimento de Sistemas.
 - 😊 Quem ver pensa que tenho personalidade séria shushusa
 
  <div>
