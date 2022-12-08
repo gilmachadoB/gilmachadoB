@@ -1,9 +1,5 @@
 ## Olá! Eu sou a Gil Machado 👋
 
-
-- 🔭 Estou cursando 4° de Análise e Desenvolvimento de Sistemas.
-- 😊 Quem ver pensa que tenho personalidade séria shushusa
-
  <div>
   <a href="https://github.com/gilmachadoB">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilmachadoB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
